@@ -17,6 +17,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Juvenilson-JS" title="JavaScript" height="30" width="40">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Juvenilson-TS" title="TypeScript" height="30" width="40">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Juvenilson-NodeJS" title="NodeJS" height="30" width="40">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="Juvenilson-React" title="React" height="30" width="40">
 </div>
 
 ##
