@@ -20,7 +20,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Juvenilson-NextJS" title="NextJS" height="30" width="40">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Juvenilson-NodeJS" title="NodeJS" height="30" width="40">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Juvenilson-ExpressJS" title="ExpressJS" height="30" width="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nest/nest-original.svg" alt="Juvenilson-NestJS" title="NestJS" height="30" width="40">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="Juvenilson-NestJS" title="NestJS" height="30" width="40">
 </div>
 
 ##
