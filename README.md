@@ -4,6 +4,7 @@
     Hello everyone, I'm Juvenilson. I'm currently studying programming by myself, now I'm studying the JS stack, to become a full-stack developer, but, I want to specialize in Back-End. I'm open to any tips or recommendations, feel free to contact me through my social media.
   </p>
 
+  <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQExh9EeufOZMQ/profile-displaybackgroundimage-shrink_350_1400/B4DZqPgVfuH0AY-/0/1763344211325?e=1764806400&v=beta&t=kwh6Xk0Slbr0Ttx9bqx4WxnaelhkN_dK4dIE9Xl08TQ">
   <img align="right" alt="Batman-Gif" src="https://i.pinimg.com/originals/30/12/14/301214ecd8e97739f0f8e2173fba0e49.gif">
 </div>
 <div>
