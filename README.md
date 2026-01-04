@@ -1,4 +1,4 @@
-## Hello World! 👋
+## Hello World! 👋🌎
 <div style>
   <p style="display: inline-block;">
     Hello everyone, I'm Juvenilson. I'm currently studying programming by myself, now I'm studying the JS stack, to become a full-stack developer, but, I want to specialize in Back-End. I'm open to any tips or recommendations, feel free to contact me through my social media.
@@ -15,6 +15,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Juvenilson-NodeJS" title="NodeJS" height="30" width="40">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Juvenilson-ExpressJS" title="ExpressJS" height="30" width="40">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="Juvenilson-NestJS" title="NestJS" height="30" width="40">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Juvenilson-Java" title="Java" height="30" width="40">
 </div>
 
 ##
