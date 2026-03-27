@@ -1,7 +1,7 @@
 ## Hello World! 👋🌎
 <div style>
   <p style="display: inline-block;">
-    Hello everyone, I'm Juvenilson. I'm currently studying programming by myself, now I'm studying Java, to become a full-stack developer in the future. I'm open to any tips or recommendations, feel free to contact me through my social media.
+    Hello everyone, I'm Juvenilson. I'm currently studying programming by myself, now I'm studying databses, to become a full-stack developer in the future. I'm open to any tips or recommendations, feel free to contact me through my social media.
   </p>
 </div>
 
