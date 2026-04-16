@@ -1,21 +1,19 @@
 ## Hello World! 👋🌎
-<div style>
+<div>
   <p style="display: inline-block;">
-    Hello everyone, I'm Juvenilson. I'm currently studying programming by myself, now I'm studying databses, to become a software engineer in the future. I'm open to any tips or recommendations, feel free to contact me through my social media.
+    I'm a self-taught developer passionate about technology and problem-solving. Currently, I'm focusing on improving my knowledge in <b>databases, backend systems, and software architecture</b>.
+    I’m always looking to learn, build real-world projects, and grow as a developer.
   </p>
 </div>
 
-<div style="display: inline-block;">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Juvenilson-HTML" title="HTML" height="30" width="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Juvenilson-CSS" title="CSS" height="30" width="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Juvenilson-JS" title="JavaScript" height="30" width="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Juvenilson-TS" title="TypeScript" height="30" width="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="Juvenilson-React" title="React" height="30" width="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Juvenilson-NextJS" title="NextJS" height="30" width="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Juvenilson-NodeJS" title="NodeJS" height="30" width="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Juvenilson-ExpressJS" title="ExpressJS" height="30" width="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="Juvenilson-NestJS" title="NestJS" height="30" width="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Juvenilson-Java" title="Java" height="30" width="40">
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" height="30">
 </div>
 
 ##
