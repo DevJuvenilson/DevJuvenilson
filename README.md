@@ -5,7 +5,7 @@
   </p>
 </div>
 
-<div style="display: inline-block;"><br>
+<div style="display: inline-block;">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Juvenilson-HTML" title="HTML" height="30" width="40">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Juvenilson-CSS" title="CSS" height="30" width="40">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Juvenilson-JS" title="JavaScript" height="30" width="40">
